@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|c:\\users\\shaji\\desktop\\net_project\\mobiletopupintegration\\mobiletopupintegration\\xmlrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|solutionrelative:mobiletopupintegration\\xmlrequestbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\mobiletopupintegration\\requestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|solutionrelative:mobiletopupintegration\\requestmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\mobiletopupintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|solutionrelative:mobiletopupintegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\mobiletopupintegration\\xmlresponseparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|solutionrelative:mobiletopupintegration\\xmlresponseparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\mobiletopupintegration\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305645C0-EA6E-4607-9FCF-6CD9A0415287}|MobileTopUpIntegration\\MobileTopUpIntegration.csproj|solutionrelative:mobiletopupintegration\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XmlResponseParser.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\XmlResponseParser.cs",
+              "RelativeDocumentMoniker": "MobileTopUpIntegration\\XmlResponseParser.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\XmlResponseParser.cs",
+              "RelativeToolTip": "MobileTopUpIntegration\\XmlResponseParser.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:51:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\Program.cs",
+              "RelativeDocumentMoniker": "MobileTopUpIntegration\\Program.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\Program.cs",
+              "RelativeToolTip": "MobileTopUpIntegration\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAADwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:23:11.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "MobileTopUpIntegration\\ResponseMessage.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\ResponseMessage.cs",
+              "RelativeToolTip": "MobileTopUpIntegration\\ResponseMessage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:50:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlRequestBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\XmlRequestBuilder.cs",
+              "RelativeDocumentMoniker": "MobileTopUpIntegration\\XmlRequestBuilder.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\XmlRequestBuilder.cs",
+              "RelativeToolTip": "MobileTopUpIntegration\\XmlRequestBuilder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:37:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestMessage.cs",
+              "DocumentMoniker": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\RequestMessage.cs",
+              "RelativeDocumentMoniker": "MobileTopUpIntegration\\RequestMessage.cs",
+              "ToolTip": "C:\\Users\\shaji\\Desktop\\NET_Project\\MobileTopUpIntegration\\MobileTopUpIntegration\\RequestMessage.cs",
+              "RelativeToolTip": "MobileTopUpIntegration\\RequestMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:26:33.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
